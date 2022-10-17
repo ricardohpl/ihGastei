@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ihGastei",
+    "slug": "ihGastei",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
